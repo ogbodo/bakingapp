@@ -1,0 +1,50 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">My Baking App</string>
+    <string name="titleIngredientStep">Recipe Name</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="noInternetError">Error has occurred, Please check your internet connection</string>
+    <string name="recipeIngredients">Recipe Ingredients</string>
+    <string name="demoDesc"><![CDATA[2. Whisk the graham cracker crumbs, 50 grams (&#188; cup) of sugar, and &#189; teaspoon of salt together in a medium bowl. Pour the melted butter and 1 teaspoon of vanilla into the dry ingredients and stir together until evenly mixed.]]></string>
+    <string name="ingredient">Ingredient</string>
+    <string name="actionFavorite">add to favorite</string>
+    <string name="addWidget">Add widget</string>
+    <string name="recipeListEmpty">Favorite Recipe List is Empty</string>
+    <string name="measure">Measure</string>
+    <string name="quantity">Quantity</string>
+    <string name="lastSteps">This is the end of the tutorial!</string>
+    <string name="firstSteps">Start, Ready to learn?</string>
+    <string name="pause">pause</string>
+    <string name="play">play</string>
+    <string name="restart">restart</string>
+    <string name="notSupportedError">Content not supported on API levels below 18!</string>
+
+    <string name="schemeNotsupportedError">Your device does not support the required DRM scheme</string>
+
+    <string name="unknownError">An unknown DRM error occurred</string>
+
+    <string name="decoderError">Your device does not provide a decoder for <xliff:g id="mime_type">%1$s</xliff:g></string>
+
+    <string name="secureDecoderError">Your device does not provide a secure decoder for <xliff:g id="mime_type">%1$s</xliff:g></string>
+
+    <string name="decodersQueryingError">Unable to query device decoders</string>
+    <string name="listLoaderError">Sample lists failed to load!</string>
+
+
+    <string name="favoriteAdded">%s added to your favorite recipe list!</string>
+    <string name="favoriteRemoved">%s removed from your favorite recipe list!</string>
+    <string name="decoderInstantiationError">Unable to instantiate decoder <xliff:g id="decoder_name">%1$s</xliff:g></string>
+
+    <string name="unsupportedVideoError">Your device was unable to play the video!</string>
+
+    <string name="unsupportedAudioError">Your device was unable to play the audio!</string>
+
+    <string name="storagePermissionDenied">Permission to access storage was denied!</string>
+
+    <string name="recipeName">Nutella Pie</string>
+
+    <string name="recipeIntro">Recipe Introduction</string>
+
+    <string name="recipeThumbnail">Recipe thumbnail</string>
+    <string name="recipeImage">Recipe Image</string>
+</resources>
